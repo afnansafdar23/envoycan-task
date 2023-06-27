@@ -1,0 +1,24 @@
+section {
+    background-color: #353b48;
+    border-radius: 9px;
+}
+
+.search-bar {
+    border: 1px solid white;
+    padding: 5px 9px;
+    border-radius: 11px;
+}
+
+.sidebar-image {
+    height: 37px !important;
+    border-radius: 17px;
+}
+
+main header {
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+.chat-body {
+    background-image: url();
+}
