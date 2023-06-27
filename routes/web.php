@@ -29,3 +29,6 @@ Route::prefix('user')
         Route::post('update/{user}', 'update')->name('user.update');
         Route::get('destroy/{user}', 'destroy')->name('user.destroy');
     });
+
+
+Route::view('frontend-task', 'frontend.index')->name('frontend');
